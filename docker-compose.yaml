@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  items:
+    image: qlikhack-2018
+    container_name: qlikhack
+    ports:
+      - "8000:8000"
